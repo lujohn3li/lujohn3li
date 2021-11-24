@@ -26,16 +26,11 @@
 
 <details>
 
-<summary><b>Click to show my GitHub Stats :chart_with_upwards_trend:</b></summary>
-  </br>
+
+
   <p align="left">
     <a href="https://github.com/xiaohu2015?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=xiaohu2015&count_private=true&show_icons=true&hide=issues&theme=react" alt="github readme stats" height="156"/>
     </a>
-    <a href="https://github.com/xiaohu2015?tab=repositories">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xiaohu2015&layout=compact&hide=jupyter%20notebook&theme=react" alt="top langs" height="156"/>
-    </a>
   </p>
 
-</details>
--->
