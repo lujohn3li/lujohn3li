@@ -24,8 +24,6 @@
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
 
-<details>
-
 
 
   <p align="left">
