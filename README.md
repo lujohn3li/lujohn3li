@@ -16,5 +16,5 @@
 
 <p align="left">
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lujohn3li5&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lujohn3li&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 </p>
