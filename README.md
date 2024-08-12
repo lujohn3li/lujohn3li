@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/xiaohu2015/count.svg" />
+  <img src="https://profile-counter.glitch.me/lujohn3li/count.svg" />
 </p>
 
 
@@ -16,5 +16,5 @@
 
 <p align="left">
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=xiaohu2015&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lujohn3li5&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 </p>
